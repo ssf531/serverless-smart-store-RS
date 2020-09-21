@@ -6,17 +6,17 @@ This project is for my master thesis research. Since my paper is still under rev
 
    A typical scenario is where customers get personalized recommendations through interactive screens in the store. The sequence diagram:
 
-![GetRecSeq](H:\githubFiles\serverless-smart-store-RS\GetRecSeq.png)
+![GetRecSeq](https://github.com/ssf531/serverless-smart-store-RS/blob/master/GetRecSeq.png)
 
 2. Design RESTful API
 
 3. Database Design
 
-   ![ClassDiagramShopping](H:\githubFiles\serverless-smart-store-RS\ClassDiagramShopping.png)
+   ![ClassDiagramShopping](https://github.com/ssf531/serverless-smart-store-RS/blob/master/ClassDiagramShopping.png)
 
 4. System Architecture Overview
 
-   ![AWSSystemOverview](H:\githubFiles\serverless-smart-store-RS\AWSSystemOverview.png)
+   ![AWSSystemOverview](https://github.com/ssf531/serverless-smart-store-RS/blob/master/AWSSystemOverview.png)
 
    
 
