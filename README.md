@@ -1,0 +1,2 @@
+# serverless-smart-store-RS
+ 
